@@ -1,2 +1,2 @@
 # amoCRM
-amoCRM test task
+Скрипты для работы с системой ведения клиентов amoCRM.
